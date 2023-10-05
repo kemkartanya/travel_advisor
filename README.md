@@ -9,3 +9,5 @@ APIs USED:
 2. google places api
 3. rapidapi restaurants api
 4. rapidapi weather api
+
+<img src="/travel_advisor.png">
